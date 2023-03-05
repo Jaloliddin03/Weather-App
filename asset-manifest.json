@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.51c2f46f.css",
+    "main.js": "/Weather-App/static/js/main.38695e1f.js",
+    "static/media/Montserrat-Medium.ttf": "/Weather-App/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Bold.ttf": "/Weather-App/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/Weather-App/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/cloud.png": "/Weather-App/static/media/cloud.081f120fd08f56583ecd.png",
+    "static/media/sun.svg": "/Weather-App/static/media/sun.43f321f4111f9e96a6a1c5669b9fac0d.svg",
+    "index.html": "/Weather-App/index.html",
+    "static/media/themeSwitch.svg": "/Weather-App/static/media/themeSwitch.d8aeb9eb2ccec39c16b24ca04560cc4a.svg",
+    "main.51c2f46f.css.map": "/Weather-App/static/css/main.51c2f46f.css.map",
+    "main.38695e1f.js.map": "/Weather-App/static/js/main.38695e1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c2f46f.css",
+    "static/js/main.38695e1f.js"
+  ]
+}
